@@ -3243,6 +3243,13 @@ input, select, textarea {
 				padding: 6em 0 6em 0 ;
 			}
 
+			button,
+			.button {
+				height: 3em;
+				line-height: 3em;
+				padding: 0 3em;
+			}
+
 	}
 
 /* Large */
@@ -3335,17 +3342,7 @@ input, select, textarea {
 				padding: 5em 3em 5em 3em ;
 			}
 
-		/* One */
 
-			#one {
-				text-align: center;
-			}
-
-		/* Two */
-
-			#two {
-				text-align: center;
-			}
 
 	}
 
@@ -3406,6 +3403,7 @@ input, select, textarea {
 			.button {
 				height: 3em;
 				line-height: 3em;
+				padding: 0 3em;
 			}
 
 		/* Main */
@@ -3442,7 +3440,7 @@ input, select, textarea {
 			input[type="reset"],
 			input[type="button"],
 			.button {
-				padding: 0;
+				padding: 0 3em;
 			}
 
 		/* Main */
