@@ -2388,7 +2388,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			margin: 0 0 7em 0;
+			margin: 0 0 2em 0;
 			width: 100%;
 		}
 
@@ -2818,7 +2818,7 @@ input, select, textarea {
 /* Main */
 
 	.main {
-		padding: 6em 0 4em 0 ;
+		padding: 2em 0 4em 0 ;
 	}
 
 		.main.style1 {
@@ -3291,7 +3291,7 @@ input, select, textarea {
 		/* Main */
 
 			.main {
-				padding: 4em 0 2em 0 ;
+				padding: 2em 0 2em 0 ;
 			}
 
 				.main.style2 {
@@ -3301,7 +3301,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 5em 0 5em 0 ;
+				padding: 2em 0 5em 0 ;
 				background-attachment: scroll;
 			}
 
@@ -3337,13 +3337,13 @@ input, select, textarea {
 		/* Main */
 
 			.main {
-				padding: 5em 3em 3em 3em ;
+				padding: 2em 3em 3em 3em ;
 			}
 
 		/* Header */
 
 			#header {
-				padding: 8em 3em 8em 3em ;
+				padding: 2em 3em 8em 3em ;
 			}
 
 		/* Footer */
@@ -3419,13 +3419,13 @@ input, select, textarea {
 		/* Main */
 
 			.main {
-				padding: 3em 1.5em 1em 1.5em ;
+				padding: 2em 1.5em 1em 1.5em ;
 			}
 
 		/* Header */
 
 			#header {
-				padding: 4em 3em 4em 3em ;
+				padding: 2em 3em 4em 3em ;
 			}
 
 				#header .actions {
@@ -3462,7 +3462,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 4em 2em 4em 2em ;
+				padding: 2cm 2em 4em 2em ;
 			}
 
 				#header br {
